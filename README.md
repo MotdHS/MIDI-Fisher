@@ -3,6 +3,8 @@ This is a Python script to modify MIDI files in weird ways.
 Ever wanted a version of a MIDI where every notes are an E note? This tool will do it!
 How about a version where everything is scrambled and it sounds asdfghjkl? There you go!
 
+Downloads are available [here](https://github.com/MotdHS/MIDI-Fisher/releases).
+
 ## Features
 1. Change all notes to be an E
 2. Randomize the key order
